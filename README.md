@@ -1,3 +1,3 @@
 # Python-Homework
 
-## Txt File and Main Notebook (main.ipynb) are located in **PyBank**
+## Txt File and Main Notebook *main.ipynb* are located in **PyBank**
